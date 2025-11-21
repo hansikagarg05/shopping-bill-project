@@ -1,4 +1,4 @@
-SHOPPING BILL PROJECt
+SHOPPING BILL PROJECT
 
 OVERVIEW
 This project is a simple python program that calculates the total shopping bill. the user can enter the names of items,their quantities, and prices.The program then displays the final bill amount.
